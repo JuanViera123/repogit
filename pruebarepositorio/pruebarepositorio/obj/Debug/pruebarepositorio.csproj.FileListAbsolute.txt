@@ -1,0 +1,7 @@
+D:\cei\pruebarepositorio\pruebarepositorio\pruebarepositorio\bin\Debug\pruebarepositorio.exe.config
+D:\cei\pruebarepositorio\pruebarepositorio\pruebarepositorio\bin\Debug\pruebarepositorio.exe
+D:\cei\pruebarepositorio\pruebarepositorio\pruebarepositorio\bin\Debug\pruebarepositorio.pdb
+D:\cei\pruebarepositorio\pruebarepositorio\pruebarepositorio\obj\Debug\pruebarepositorio.csproj.AssemblyReference.cache
+D:\cei\pruebarepositorio\pruebarepositorio\pruebarepositorio\obj\Debug\pruebarepositorio.csproj.CoreCompileInputs.cache
+D:\cei\pruebarepositorio\pruebarepositorio\pruebarepositorio\obj\Debug\pruebarepositorio.exe
+D:\cei\pruebarepositorio\pruebarepositorio\pruebarepositorio\obj\Debug\pruebarepositorio.pdb
