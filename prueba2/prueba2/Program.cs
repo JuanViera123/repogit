@@ -10,6 +10,7 @@ namespace prueba2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("prueba");
         }
     }
 }

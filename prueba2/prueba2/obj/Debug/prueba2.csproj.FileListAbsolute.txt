@@ -1,0 +1,7 @@
+D:\cei\pruebarepositorio\prueba2\prueba2\bin\Debug\prueba2.exe.config
+D:\cei\pruebarepositorio\prueba2\prueba2\bin\Debug\prueba2.exe
+D:\cei\pruebarepositorio\prueba2\prueba2\bin\Debug\prueba2.pdb
+D:\cei\pruebarepositorio\prueba2\prueba2\obj\Debug\prueba2.csproj.AssemblyReference.cache
+D:\cei\pruebarepositorio\prueba2\prueba2\obj\Debug\prueba2.csproj.CoreCompileInputs.cache
+D:\cei\pruebarepositorio\prueba2\prueba2\obj\Debug\prueba2.exe
+D:\cei\pruebarepositorio\prueba2\prueba2\obj\Debug\prueba2.pdb
